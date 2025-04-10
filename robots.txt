@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thebalayogesh.github.io/sitemap.xml
