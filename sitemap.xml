@@ -2,34 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thebalayogesh.github.io/tags/blogging/</loc>
-    <lastmod>2025-04-10T10:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thebalayogesh.github.io/categories/</loc>
-    <lastmod>2025-04-10T10:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thebalayogesh.github.io/tags/journey/</loc>
-    <lastmod>2025-04-10T10:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thebalayogesh.github.io/tags/motivation/</loc>
-    <lastmod>2025-04-10T10:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thebalayogesh.github.io/categories/personal/</loc>
-    <lastmod>2025-04-10T10:00:00+05:30</lastmod>
+    <loc>https://thebalayogesh.github.io/tags/frontend-development/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thebalayogesh.github.io/posts/</loc>
-    <lastmod>2025-04-10T10:00:00+05:30</lastmod>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thebalayogesh.github.io/tags/react/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thebalayogesh.github.io/tags/react-hooks/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thebalayogesh.github.io/tags/</loc>
-    <lastmod>2025-04-10T10:00:00+05:30</lastmod>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thebalayogesh.github.io/</loc>
-    <lastmod>2025-04-10T10:00:00+05:30</lastmod>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thebalayogesh.github.io/posts/hello-world/</loc>
-    <lastmod>2025-04-10T10:00:00+05:30</lastmod>
+    <loc>https://thebalayogesh.github.io/posts/useid-hook/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thebalayogesh.github.io/about/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thebalayogesh.github.io/categories/</loc>
   </url>
 </urlset>

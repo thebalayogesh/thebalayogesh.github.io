@@ -6,14 +6,14 @@
     <description>Recent content on The Bala Yogesh</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Apr 2025 10:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://thebalayogesh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why I Started Blogging</title>
-      <link>https://thebalayogesh.github.io/posts/hello-world/</link>
-      <pubDate>Thu, 10 Apr 2025 10:00:00 +0530</pubDate>
-      <guid>https://thebalayogesh.github.io/posts/hello-world/</guid>
-      <description>A short intro into why I started this blog and what you can expect from it.</description>
+      <title>useId() in React: Solve ID Conflicts Easily</title>
+      <link>https://thebalayogesh.github.io/posts/useid-hook/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://thebalayogesh.github.io/posts/useid-hook/</guid>
+      <description>Learn how the useId() hook in React helps generate unique IDs, simplify form handling with real-world examples.</description>
     </item>
     <item>
       <title>About</title>
