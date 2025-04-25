@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Personal Growth on The Bala Yogesh</title>
-    <link>https://thebalayogesh.github.io/tags/personal-growth/</link>
+    <link>http://localhost:1313/tags/personal-growth/</link>
     <description>Recent content in Personal Growth on The Bala Yogesh</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thebalayogesh.github.io/tags/personal-growth/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/personal-growth/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I Chose Software Development in the AI Era</title>
-      <link>https://thebalayogesh.github.io/posts/ai-chooses-me/</link>
+      <link>http://localhost:1313/posts/ai-chooses-me/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://thebalayogesh.github.io/posts/ai-chooses-me/</guid>
+      <guid>http://localhost:1313/posts/ai-chooses-me/</guid>
       <description>&lt;h2 id=&#34;-why-i-chose-software-development-in-the-ai-era&#34;&gt;🚀 Why I Chose Software Development in the AI Era&lt;/h2&gt;
 &lt;p&gt;The answer is simple: I chose software development because of AI.&lt;/p&gt;
 &lt;p&gt;🧠 Think about it:&lt;/p&gt;

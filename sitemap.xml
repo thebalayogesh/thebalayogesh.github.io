@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thebalayogesh.github.io/tags/ai/</loc>
+    <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thebalayogesh.github.io/tags/personal-growth/</loc>
+    <loc>http://localhost:1313/tags/personal-growth/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thebalayogesh.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thebalayogesh.github.io/tags/software-development/</loc>
+    <loc>http://localhost:1313/tags/software-development/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thebalayogesh.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thebalayogesh.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thebalayogesh.github.io/posts/ai-chooses-me/</loc>
+    <loc>http://localhost:1313/posts/ai-chooses-me/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thebalayogesh.github.io/tags/frontend-development/</loc>
+    <loc>http://localhost:1313/tags/frontend-development/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thebalayogesh.github.io/tags/react/</loc>
+    <loc>http://localhost:1313/tags/react/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thebalayogesh.github.io/tags/react-hooks/</loc>
+    <loc>http://localhost:1313/tags/react-hooks/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thebalayogesh.github.io/posts/useid-hook/</loc>
+    <loc>http://localhost:1313/posts/useid-hook/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thebalayogesh.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thebalayogesh.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

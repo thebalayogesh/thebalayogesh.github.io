@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>React Hooks on The Bala Yogesh</title>
-    <link>https://thebalayogesh.github.io/tags/react-hooks/</link>
+    <link>http://localhost:1313/tags/react-hooks/</link>
     <description>Recent content in React Hooks on The Bala Yogesh</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thebalayogesh.github.io/tags/react-hooks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/react-hooks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>useId() in React: Solve ID Conflicts Easily</title>
-      <link>https://thebalayogesh.github.io/posts/useid-hook/</link>
+      <link>http://localhost:1313/posts/useid-hook/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://thebalayogesh.github.io/posts/useid-hook/</guid>
+      <guid>http://localhost:1313/posts/useid-hook/</guid>
       <description>Learn how the useId() hook in React helps generate unique IDs, simplify form handling with real-world examples.</description>
     </item>
   </channel>
